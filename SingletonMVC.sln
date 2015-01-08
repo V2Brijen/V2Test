@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonMVC", "SingletonMVC\SingletonMVC.csproj", "{00A39DE6-4921-45DD-9CA9-DE09F87F86EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonMVC.Tests", "SingletonMVC.Tests\SingletonMVC.Tests.csproj", "{9BD08C8A-4583-4D88-980D-00E7E11CFAC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A39DE6-4921-45DD-9CA9-DE09F87F86EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A39DE6-4921-45DD-9CA9-DE09F87F86EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A39DE6-4921-45DD-9CA9-DE09F87F86EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A39DE6-4921-45DD-9CA9-DE09F87F86EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BD08C8A-4583-4D88-980D-00E7E11CFAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD08C8A-4583-4D88-980D-00E7E11CFAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD08C8A-4583-4D88-980D-00E7E11CFAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD08C8A-4583-4D88-980D-00E7E11CFAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
