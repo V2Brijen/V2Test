@@ -55,6 +55,5 @@ namespace SingletonMVC.Tests.Controllers
         { 
             //Commented line
         }
-
     }
 }
