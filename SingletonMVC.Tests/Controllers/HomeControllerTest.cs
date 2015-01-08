@@ -50,5 +50,9 @@ namespace SingletonMVC.Tests.Controllers
             // Assert
             Assert.IsNotNull(result);
         }
+
+        public void TestMethod()
+        { }
+
     }
 }
