@@ -7,5 +7,12 @@ namespace SingletonMVC.Tests.Test
 {
     class First
     {
+        public First ()
+        { }
+
+        public void Sample()
+        {
+            throw NotImplementedException();
+        }
     }
 }
