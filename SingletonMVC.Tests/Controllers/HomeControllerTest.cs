@@ -52,7 +52,9 @@ namespace SingletonMVC.Tests.Controllers
         }
 
         public void TestMethod()
-        { }
+        { 
+            //Commented line
+        }
 
     }
 }
