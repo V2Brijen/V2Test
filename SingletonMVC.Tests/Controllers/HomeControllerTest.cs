@@ -53,7 +53,7 @@ namespace SingletonMVC.Tests.Controllers
 
         public void TestMethod()
         { 
-            //Commented line
+            //Commented line updated
         }
 
     }
